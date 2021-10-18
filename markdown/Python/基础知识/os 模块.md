@@ -82,7 +82,6 @@ for root, dirs, files in os.walk('python/Lib/email'):
 1.9 系统信息
 ```
 #  CPU 个数
-
 >>> os.cpu_count()
 4
 ```
@@ -117,5 +116,4 @@ os.path.islink()
 1.15 相同文件判断
 ```
 os.path.samefile(path1, path2)
-
 ```

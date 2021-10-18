@@ -1,5 +1,5 @@
 ---
-title: python library , module , package
+title: python的组织形式 library、module、 package
 date: 2017-07-16 23:12:40
 tags:
 - 笔记
@@ -55,7 +55,7 @@ library多数都是指的是C，C#等语言中的库，库文件；
 Python中，很少用library这个词；
 Python中的“库”，“库文件”的叫法，叫做module，模块；
 不论你是Python的初学者还是高手，个人建议，都还是继续沿用，官方的，通用的叫法，使用 module这个词，而不要使用用library这个词；
- 
+
 
 Python中的module和package之间的区别
 导入单个的module，一般是这样的：
@@ -68,7 +68,7 @@ import my_module
 ?
 1
 from my_package.timing.danger.internets import function_of_love
- 
+
 
 可以简单理解为：
 
