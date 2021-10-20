@@ -22,4 +22,4 @@ Spark是通用的:
 Spark是高度开放的:
 
 Spark 提供了Pyhon Java Scala Sql的API和丰富的内置库
-SPark和其他的大数据工具整合的很好,包括hadoop kafka等 
+Spark和其他的大数据工具整合的很好,包括hadoop kafka等 
