@@ -10,6 +10,7 @@ categories:
 ### ES安装
 1. 依赖
                 
+    
         需保证已安装jdk环境
 2. 安装es
 
@@ -149,7 +150,7 @@ es 目录下
  bin/plugin install lmenezes/elasticsearch-delete-by-query
 ```
 
-### 开启script 乐驰发布程序需要使用
+### 开启script 发布程序需要使用
 
 配置文件末尾添加
 ```
@@ -158,4 +159,4 @@ script.indexed: on
 ```
 
 
-    
+​    
